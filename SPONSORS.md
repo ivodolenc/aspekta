@@ -1,0 +1,7 @@
+# Sponsors 🤑
+
+...
+
+## Individuals ☕
+
+...
