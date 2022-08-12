@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions & Help 🙋
+    url: https://github.com/ivodolenc/aspekta/discussions
+    about: Please use Discussions for all additional questions or technical advices.
