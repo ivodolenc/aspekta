@@ -1,7 +1,7 @@
 name: Feature Request 🚀
 description: Suggest a new idea or a quick enhancement.
 title: 'Feat: '
-labels: 'feature'
+labels: 'feat'
 body:
   - type: markdown
     attributes:
