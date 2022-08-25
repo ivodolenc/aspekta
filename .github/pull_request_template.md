@@ -1,5 +1,7 @@
 <!-- Thanks for opening a PR! Your contribution is much appreciated. -->
 
+<!-- Before submitting, please make sure to read 'Contributing Guide' for more info. -->
+
 <!-- Check the boxes with an 'x' that refers to your changes. -->
 
 ## Types of Changes
@@ -23,4 +25,4 @@
 
 <!-- Describe your new request in detail. -->
 
-<!-- Add links to related issues, e.g. fixes #number, resolves #number, closes #number etc. -->
+<!-- Add links to related issues, e.g. Fixes #number, Resolves #number, Closes #number etc. -->
