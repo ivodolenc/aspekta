@@ -23,10 +23,7 @@ A modern sans-serif collection inspired by a _clean_, _simple_ and _neutral_ sty
 - Croatian 🇭🇷
 - Slovenian 🇸🇮
 - Dutch 🇳🇱
-
-# Showcase 🧑‍💻
-
-Explore the collection. [See the details →](shots)
+- Spanish 🇪🇸
 
 # Show Support ⭐
 
