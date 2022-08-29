@@ -1,6 +1,9 @@
 {
 .appVersion = "3133";
 .formatVersion = 3;
+DisplayStrings = (
+"Á"
+);
 axes = (
 {
 name = Weight;
@@ -9,6 +12,13 @@ tag = wght;
 {
 name = Width;
 tag = wdth;
+}
+);
+classes = (
+{
+automatic = 1;
+code = "A Aacute B C Cacute Ccaron D Dcroat E Eacute F G H I Iacute J K L M N Ntilde O Oacute P Q R S Scaron T U Uacute Udieresis V W X Y Z Zcaron G.ss01 R.ss01 J.ss02";
+name = Uppercase;
 }
 );
 customParameters = (
@@ -39,10 +49,36 @@ name = Languagesystems;
 features = (
 {
 automatic = 1;
-code = "feature ss01;
+code = "feature case;
+feature ss01;
 feature ss02;
 ";
 tag = aalt;
+},
+{
+automatic = 1;
+code = "lookup ccmp_Other_1 {
+	@Markscomb = [dieresis acute caron tilde];
+	@MarkscombCase = [dieresis.case acute.case caron.case tilde.case];
+	sub @Markscomb @Markscomb' by @MarkscombCase;
+	sub @Uppercase @Markscomb' by @MarkscombCase;
+} ccmp_Other_1;
+
+lookup ccmp_Other_2 {
+	sub @Markscomb' @MarkscombCase by @MarkscombCase;
+	sub @MarkscombCase @Markscomb' by @MarkscombCase;
+} ccmp_Other_2;
+";
+tag = ccmp;
+},
+{
+automatic = 1;
+code = "sub dieresis by dieresis.case;
+sub acute by acute.case;
+sub caron by caron.case;
+sub tilde by tilde.case;
+";
+tag = case;
 },
 {
 automatic = 1;
@@ -16146,5 +16182,5 @@ m01 = {
 };
 };
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 100;
 }
