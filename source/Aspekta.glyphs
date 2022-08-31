@@ -1,9 +1,6 @@
 {
 .appVersion = "3133";
 .formatVersion = 3;
-DisplayStrings = (
-"€"
-);
 axes = (
 {
 name = Weight;
@@ -17977,5 +17974,5 @@ m01 = {
 };
 };
 versionMajor = 1;
-versionMinor = 100;
+versionMinor = 200;
 }
