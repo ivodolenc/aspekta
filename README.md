@@ -6,6 +6,8 @@
 
 A modern sans-serif collection inspired by a _clean_, _simple_ and _neutral_ style. The family provides a wide range of weights and stylistic alternatives that can be mixed to create **strong branding**.
 
+#### [Download Latest Release](https://github.com/ivodolenc/aspekta/releases/latest)
+
 # Features 🪄
 
 - Free & `Open Source` project 🦸
@@ -119,7 +121,7 @@ Check out the [Contributing Guide](CONTRIBUTING.md) for more info.
 
 ### Aspekta Typeface
 
-[OFL License](LICENSE.txt)
+[OFL 1.1 License](LICENSE.txt)
 
 Copyright © Ivo Dolenc
 
