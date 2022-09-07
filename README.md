@@ -28,6 +28,9 @@ A modern sans-serif collection inspired by a _clean_, _simple_ and _neutral_ sty
 - Spanish 🇪🇸
 - German 🇩🇪
 - Italian 🇮🇹
+- French 🇫🇷
+- Portuguese 🇵🇹
+- Turkish 🇹🇷
 
 # Show Support ⭐
 
