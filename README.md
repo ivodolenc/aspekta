@@ -21,16 +21,9 @@ A modern sans-serif collection inspired by a _clean_, _simple_ and _neutral_ sty
 
 # Languages 🌐
 
-- English 🇬🇧
-- Croatian 🇭🇷
-- Slovenian 🇸🇮
-- Dutch 🇳🇱
-- Spanish 🇪🇸
-- German 🇩🇪
-- Italian 🇮🇹
-- French 🇫🇷
-- Portuguese 🇵🇹
-- Turkish 🇹🇷
+Currently supported languages:
+
+- Croatian, Czech, Dutch, English, Finnish, French, German, Irish, Italian, Polish, Portuguese, Slovak, Slovenian, Spanish, Swedish, Turkish
 
 # Show Support ⭐
 
