@@ -12,8 +12,9 @@ A modern sans-serif collection inspired by a _clean_, _simple_ and _neutral_ sty
 
 - Free & `Open Source` project 🦸
 - Available as a `Variable` typeface 🎚️
+- Offers great `multilingual` support 🗣️
 - Suitable for `Desktop` and `Web` use (ttf, otf, woff2) 📦
-- Comes in `20` different styles (50-1000) 🤯
+- Comes in `20` different weights (50-1000) 🤯
 - Includes `source` files with 3 main masters 💎
 - Supports `extra` Stylistic Sets (ss01, ss02) 🤩
 - Provides custom `smart` components 🎛️
@@ -21,9 +22,25 @@ A modern sans-serif collection inspired by a _clean_, _simple_ and _neutral_ sty
 
 # Languages 🌐
 
-Currently supported languages:
+### Multilingual Font
 
 - Croatian, Czech, Dutch, English, Finnish, French, German, Irish, Italian, Polish, Portuguese, Slovak, Slovenian, Spanish, Swedish, Turkish
+
+# Formats 📦
+
+Since the `source` files are publicly available, it is possible to export the formats according to your needs.
+
+Here are official production-ready formats:
+
+### Desktop
+
+- Static fonts in [.otf](./fonts/otf/) format
+- Static fonts in [.ttf](./fonts/ttf/) format
+
+### Web
+
+- Variable Font in [.woff2](./fonts/variable/) format
+- Web fonts in [.woff2](./fonts/webfonts/) format
 
 # Show Support ⭐
 
@@ -31,7 +48,7 @@ Currently supported languages:
     <img src=".assets/show-support.svg">
 </p>
 
-**Aspekta** is a `free` and `open source` typeface released under the [OFL License](LICENSE.txt). The source files are available to anyone whether they want to explore it or make a contribution.
+**Aspekta** is a `free` and `open source` typeface released under the [SIL Open Font License (OFL)](LICENSE.txt). The source files are available to anyone whether they want to explore it or make a contribution.
 
 If you like the project and found it useful, please spread the word and `leave a star`. It means a lot and gives motivation for further development.
 
