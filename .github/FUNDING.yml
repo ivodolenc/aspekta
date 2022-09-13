@@ -1,8 +1,3 @@
 # These are supported funding model platforms
-ko_fi: ivodolenc
-custom:
-  [
-    'https://revolut.me/ivodolenc',
-    'https://paypal.me/ivodolenc',
-    'https://www.buymeacoffee.com/ivodolenc'
-  ]
+github: ivodolenc
+custom: ['https://revolut.me/ivodolenc', 'https://paypal.me/ivodolenc']
