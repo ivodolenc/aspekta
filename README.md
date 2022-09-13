@@ -71,13 +71,11 @@ Individual donations are appreciated and will be mentioned in the [sponsors](SPO
 ### Payment platforms
 
 <p>
+<a href="https://github.com/sponsors/ivodolenc">GitHub Sponsors</a>
+<span>—</span>
 <a href="https://revolut.me/ivodolenc">Revolut</a>
 <span>—</span>
 <a href="https://paypal.me/ivodolenc">PayPal</a>
-<span>—</span>
-<a href="https://www.buymeacoffee.com/ivodolenc">BuyMeACoffee</a>
-<span>—</span>
-<a href="https://ko-fi.com/ivodolenc">Ko-fi</a>
 </p>
 
 # Become a Sponsor 🤑
