@@ -1,8 +1,16 @@
 # Typeface Source
 
-This directory contains the `main` font file used only for _development_, _export_, and _maintenance_.
+This directory contains the main font files used only for _development_, _export_, and _maintenance_.
 
 All files intended for _production_ are located in the [fonts](../fonts/) directory.
+
+### Aspekta.glyphs
+
+This file is the `base` source with all editable paths and glyphs. Every new change must be done here, with all overlaps if there are any.
+
+### AspektaVF.glyphs
+
+This is basically a `mirrored` _base_, which is specifically intended for **Variable Font**. All changes made in the _base source_ are manually duplicated here without overlaps.
 
 ## Font Info
 
