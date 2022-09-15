@@ -40,24 +40,24 @@ This is basically a `mirrored` _base_, which is specifically intended for **Vari
 
 **Thin - 100**
 
-- hSteam0: 30
-- hSteam1: 31
-- vSteam0: 32
-- vSteam1: 33
+- hStem0: 30
+- hStem1: 31
+- vStem0: 32
+- vStem1: 33
 
 **Regular - 400**
 
-- hSteam0: 80
-- hSteam1: 82
-- vSteam0: 84
-- vSteam1: 92
+- hStem0: 80
+- hStem1: 82
+- vStem0: 84
+- vStem1: 92
 
 **Black - 900**
 
-- hSteam0: 162
-- hSteam1: 182
-- vSteam0: 188
-- vSteam1: 212
+- hStem0: 162
+- hStem1: 182
+- vStem0: 188
+- vStem1: 212
 
 ## Exports
 
