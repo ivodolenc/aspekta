@@ -40,24 +40,24 @@ This is basically a `mirrored` _base_, which is specifically intended for **Vari
 
 **Thin - 100**
 
-- hSteam0: 30
-- hSteam1: 31
-- vSteam0: 32
-- vSteam1: 33
+- hStem0: 30
+- hStem1: 31
+- vStem0: 32
+- vStem1: 33
 
 **Regular - 400**
 
-- hSteam0: 80
-- hSteam1: 82
-- vSteam0: 84
-- vSteam1: 92
+- hStem0: 80
+- hStem1: 82
+- vStem0: 84
+- vStem1: 92
 
 **Black - 900**
 
-- hSteam0: 162
-- hSteam1: 182
-- vSteam0: 188
-- vSteam1: 212
+- hStem0: 162
+- hStem1: 182
+- vStem0: 188
+- vStem1: 212
 
 ## Exports
 
@@ -88,11 +88,35 @@ This is basically a `mirrored` _base_, which is specifically intended for **Vari
 
 - Weights 100-900
 
+## Formats
+
+### Desktop
+
+- Static fonts in `.otf` format
+- Static fonts in `.ttf` format
+
+### Web
+
+- Variable Font in `.ttf` and `.woff2` formats
+- Web fonts in `.woff2` format
+
 ## Features
 
-- aalt
-- ccmp
-- locl
-- case
-- ss01
-- ss02
+- `aalt` - Access All Alternates
+- `ccmp` - Glyph Composition / Decomposition
+- `locl` - Localized Forms
+- `case` - Case-Sensitive Forms
+- `ss01` - Stylistic Set 1 (Alternative a)
+- `ss02` - Stylistic Set 2 (Alternative l)
+- `ss03` - Stylistic Set 3 (Alternative t)
+- `ss04` - Stylistic Set 4 (Alternative u)
+- `ss05` - Stylistic Set 5 (Alternative y)
+- `ss06` - Stylistic Set 6 (Alternative G)
+- `ss07` - Stylistic Set 7 (Alternative J)
+- `ss08` - Stylistic Set 8 (Alternative R)
+- `ss09` - Stylistic Set 9 (Alternative 3,6,9)
+- `ss10` - Stylistic Set 10 (Alternative 1,4)
+- `ss11` - Stylistic Set 11 (Alternative @)
+- `ss12` - Stylistic Set 12 (Alternative ¢,$,€,£)
+- `ss13` - Stylistic Set 13 (Alternative ©,®,℗)
+- `ss14` - Stylistic Set 14 (Alternative ™,℠)
