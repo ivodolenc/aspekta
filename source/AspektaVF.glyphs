@@ -1,9 +1,6 @@
 {
 .appVersion = "3134";
 .formatVersion = 3;
-DisplayStrings = (
-"®"
-);
 axes = (
 {
 name = Weight;
@@ -66,7 +63,7 @@ value = m002;
 }
 );
 date = "2022-07-05 01:03:03 +0000";
-familyName = Aspekta;
+familyName = "Aspekta Variable";
 featurePrefixes = (
 {
 automatic = 1;
@@ -41678,6 +41675,10 @@ language = dflt;
 value = "Aspekta Variable";
 }
 );
+},
+{
+key = postscriptFullName;
+value = "Aspekta Variable";
 }
 );
 type = variable;
