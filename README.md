@@ -83,11 +83,20 @@ Help this project by funding development costs and take advantage of sponsorship
 Feel free to send a message for all inquiries via <a href="mailto:ivodolenc@gmail.com" title="ivodolenc@gmail.com">email</a> or <i title="ivodolenc#0591">Discord chat</i>.
 
 <details>
-  <summary><strong>Bronze — €50 / month</strong></summary>
+  <summary><strong>Special 💎</strong></summary>
   <p>
 
-- Small logo placement on the repository [home](README.md) page
-- Small logo placement in the [sponsors](SPONSORS.md) file
+- Let's discuss about this!
+  </p>
+</details>
+
+<details>
+  <summary><strong>Gold — €200 / month</strong></summary>
+  <p>
+
+- Large logo placement on the repository [home](README.md) page
+- Large logo placement in the [sponsors](SPONSORS.md) file
+- Logo placement in a special section of each [release](https://github.com/ivodolenc/aspekta/releases)
   </p>
 </details>
 
@@ -101,20 +110,11 @@ Feel free to send a message for all inquiries via <a href="mailto:ivodolenc@gmai
   </details>
 
 <details>
-  <summary><strong>Gold — €200 / month</strong></summary>
+  <summary><strong>Bronze — €50 / month</strong></summary>
   <p>
 
-- Large logo placement on the repository [home](README.md) page
-- Large logo placement in the [sponsors](SPONSORS.md) file
-- Logo placement in a special section of each [release](https://github.com/ivodolenc/aspekta/releases)
-  </p>
-</details>
-
-<details>
-  <summary><strong>Special 💎</strong></summary>
-  <p>
-
-- Let's discuss about this!
+- Small logo placement on the repository [home](README.md) page
+- Small logo placement in the [sponsors](SPONSORS.md) file
   </p>
 </details>
 
