@@ -1,133 +1,62 @@
 <p align="center">
-    <img src=".assets/aspekta.png">
+  <img alt="Aspekta™ Typeface" src=".assets/aspekta_cover.gif">
 </p>
 
-# Aspekta Typeface
+<h1 align="center">Aspekta™</h1>
 
-A modern sans-serif collection inspired by a _clean_, _simple_ and _neutral_ style. The family provides a wide range of weights and stylistic alternatives that can be mixed to create **strong branding**.
+<p align="center">A modern sans-serif collection inspired by a clean, simple and neutral style. <br> The family provides a wide range of weights and stylistic alternatives that can be mixed to create strong branding.</p>
 
-#### [Download Latest Release](https://github.com/ivodolenc/aspekta/releases/latest)
+<p align="center">
+  <a title="Download Aspekta™ Typeface" href="https://github.com/ivodolenc/aspekta/releases">
+    <h3 align="center">Download Typeface</h3>
+  </a>
+</p>
 
-## Features 🪄
+<br>
 
-- Free & `Open Source` project
-- Available as a `Variable` typeface
-- Offers great `multilingual` support
-- Suitable for `Desktop` and `Web` use (ttf, otf, woff2)
-- Comes in `20` different weights (50-1000)
-- Includes `source` files with 3 main masters
-- Supports `extra` Stylistic Sets (ss01-ss14)
-- Provides custom `smart` components
-- Allows `easy` expansion
+<p align="center">
+  <sub>Special Sponsor</sub>
+</p>
 
-## Languages 🌐
+<p align="center">
+  <a title="Hypernym Studio" href="https://github.com/hypernym-studio">
+    <img alt="Hypernym Studio" width="244" src=".assets/hypernym-studio_logo.svg">
+  </a>
+</p>
 
-### Multilingual Font
+<br>
+
+## Features
+
+- Free and open source project
+- Available as a _static_ and _variable_ typeface
+- Offers great _multilingual_ support
+- Suitable for _desktop_ and _web_ use
+- Comes in 20 different weights (50-1000)
+- Includes _source_ files with 3 main masters
+- Supports _extra_ stylistic sets (ss01-ss14)
+- Provides custom _smart_ components
+- Allows _easy_ expansion
+
+## Languages
 
 - Croatian, Czech, Dutch, English, Finnish, French, German, Irish, Italian, Polish, Portuguese, Slovak, Slovenian, Spanish, Swedish, Turkish
 
-## Formats 📦
-
-### Desktop
+## Formats
 
 - Static fonts in [.otf](./fonts/otf/) format
 - Static fonts in [.ttf](./fonts/ttf/) format
-
-### Web
-
-- Variable Font in [.ttf](./fonts/variable/) and [.woff2](./fonts/variable/) formats
+- Variable font in [.ttf](./fonts/variable/) and [.woff2](./fonts/variable/) formats
 - Web fonts in [.woff2](./fonts/webfonts/) format
 
-## Show Support ⭐
+## Community
 
-<p align="center">
-    <img src=".assets/show-support.svg">
-</p>
+Feel free to use the official [discussions](https://github.com/ivodolenc/aspekta/discussions) for any additional questions.
 
-**Aspekta** is a free and open source typeface. The source files are available to anyone whether they want to explore it or make a contribution.
+## License
 
-If you like the project and found it useful, `leave a star` to show your support.
+Developed in 🇭🇷 Croatia
 
-### Starring a repository
+Released under the [OFL 1.1](LICENSE.txt) license.
 
-Navigate to the top-right corner of the page and click the <kbd>☆ Star</kbd> button.
-
-## Send a Donation ☕
-
-<p align="center">
-    <img src=".assets/send-donation.svg">
-</p>
-
-You can also support **Aspekta** with one-time donations — like buying coffee or sending an amount of your choice.
-
-Individual donations are appreciated and will be mentioned in the [sponsors](SPONSORS.md) file.
-
-### Payment platforms
-
-<p>
-<a href="https://github.com/sponsors/ivodolenc">GitHub Sponsors</a>
-<span>—</span>
-<a href="https://revolut.me/ivodolenc">Revolut</a>
-<span>—</span>
-<a href="https://paypal.me/ivodolenc">PayPal</a>
-</p>
-
-## Become a Sponsor 🤑
-
-<p align="center">
-    <img src=".assets/become-sponsor.svg">
-</p>
-
-Help this project by funding development costs and take advantage of sponsorship benefits. It's a win-win!
-
-Feel free to send a message for all inquiries via <a href="mailto:ivodolenc@gmail.com" title="ivodolenc@gmail.com">email</a> or <i title="ivodolenc#0591">Discord chat</i>.
-
-<details>
-  <summary><strong>Special 💎</strong></summary>
-  <p>
-
-- Let's discuss about this!
-  </p>
-</details>
-
-<details>
-  <summary><strong>Gold — €200 / month</strong></summary>
-  <p>
-
-- Large logo placement on the repository [home](README.md) page
-- Large logo placement in the [sponsors](SPONSORS.md) file
-- Logo placement in a special section of each [release](https://github.com/ivodolenc/aspekta/releases)
-  </p>
-</details>
-
-<details>
-  <summary><strong>Silver — €100 / month</strong></summary>
-  <p>
-
-- Medium logo placement on the repository [home](README.md) page
-- Medium logo placement in the [sponsors](SPONSORS.md) file
-    </p>
-  </details>
-
-<details>
-  <summary><strong>Bronze — €50 / month</strong></summary>
-  <p>
-
-- Small logo placement on the repository [home](README.md) page
-- Small logo placement in the [sponsors](SPONSORS.md) file
-  </p>
-</details>
-
-## Contributing 🤝
-
-Check out the [Contributing Guide](CONTRIBUTING.md) for more info.
-
-## License 📃
-
-### Aspekta Typeface
-
-[OFL 1.1 License](LICENSE.txt)
-
-Copyright © Ivo Dolenc
-
-Developed in Croatia 🇭🇷
+© Ivo Dolenc
