@@ -14,9 +14,9 @@ This is basically a `mirrored` _base_, which is specifically intended for **Vari
 
 ## Font Info
 
-- Family Name: Aspekta
+- Aspekta™ Typeface
 - Static + Variable Font
-- License: SIL OFL, Version 1.1
+- Open Font License (OFL) v1.1
 - Copyright © Ivo Dolenc
 
 ## Masters
@@ -63,26 +63,7 @@ This is basically a `mirrored` _base_, which is specifically intended for **Vari
 
 **Static Instances**
 
-- Weight 50
-- Weight 100
-- Weight 150
-- Weight 200
-- Weight 250
-- Weight 300
-- Weight 350
-- Weight 400
-- Weight 450
-- Weight 500
-- Weight 550
-- Weight 600
-- Weight 650
-- Weight 700
-- Weight 750
-- Weight 800
-- Weight 850
-- Weight 900
-- Weight 950
-- Weight 1000
+- Weights 50-1000
 
 **Variable Range**
 
@@ -90,17 +71,12 @@ This is basically a `mirrored` _base_, which is specifically intended for **Vari
 
 ## Formats
 
-### Desktop
-
 - Static fonts in `.otf` format
 - Static fonts in `.ttf` format
-
-### Web
-
-- Variable Font in `.ttf` and `.woff2` formats
+- Variable font in `.ttf` and `.woff2` formats
 - Web fonts in `.woff2` format
 
-## Features
+## Stylistic Sets
 
 - `aalt` - Access All Alternates
 - `ccmp` - Glyph Composition / Decomposition
