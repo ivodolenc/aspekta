@@ -6,11 +6,9 @@
 
 <p align="center">A modern sans-serif collection inspired by a clean, simple and neutral style. <br> The family provides a wide range of weights and stylistic alternatives that can be mixed to create strong branding.</p>
 
-<p align="center">
-  <a title="Download Aspekta™ Typeface" href="https://github.com/ivodolenc/aspekta/releases">
-    <h3 align="center">Download Typeface</h3>
-  </a>
-</p>
+<h3 align="center">
+  <a title="Download Aspekta™ Typeface" href="https://github.com/ivodolenc/aspekta/releases">Download Typeface</a>
+</h3>
 
 <br>
 
