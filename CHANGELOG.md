@@ -1,3 +1,5 @@
-# Release Notes 🥳
+# What's New
 
-Check out the latest features and improvements. [See Releases →](https://github.com/ivodolenc/aspekta/releases)
+Check out the latest features and improvements.
+
+#### [Release Notes](https://github.com/ivodolenc/aspekta/releases)

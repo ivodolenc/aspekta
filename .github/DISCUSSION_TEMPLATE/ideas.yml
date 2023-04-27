@@ -1,10 +1,4 @@
-name: Feature Request 🚀
-description: Suggest a new idea or a quick enhancement.
-labels: 'feat'
 body:
-  - type: markdown
-    attributes:
-      value: Thanks for being interested in contributing to this project! Please fill out this form as completely as possible.
   - type: textarea
     attributes:
       label: Request Description
@@ -21,8 +15,3 @@ body:
     attributes:
       label: Additional Details
       description: Provide information that may be helpful.
-  - type: markdown
-    attributes:
-      value: |
-        Before posting, go through the steps to make sure the information provided is clear and detailed.
-        Your feedback is much appreciated. Thanks in advance!

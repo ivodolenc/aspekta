@@ -1,6 +1,5 @@
-name: Bug Report 🚨
+name: Bug Report
 description: Report a bug to help improve this project.
-labels: 'bug'
 body:
   - type: markdown
     attributes:
@@ -30,11 +29,9 @@ body:
   - type: input
     id: version
     attributes:
-      label: Font Version
+      label: Version
       description: Specify the exact version.
-      placeholder: '1.000'
+      placeholder: "1.000"
   - type: markdown
     attributes:
-      value: |
-        Before posting, please go through the steps to make sure the information provided is clear and detailed.
-        Your feedback is much appreciated. Thanks in advance!
+      value: Your feedback is much appreciated. Thanks in advance!
