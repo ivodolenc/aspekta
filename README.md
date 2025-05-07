@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Aspekta™ Typeface" src=".assets/aspekta_cover.gif">
+  <img alt="Aspekta™ Typeface" src="./media/aspekta_cover.gif">
 </p>
 
 <h1 align="center">Aspekta™</h1>
@@ -12,29 +12,17 @@
 
 <br>
 
-<p align="center">
-  <sub>Special Sponsor</sub>
-</p>
-
-<p align="center">
-  <a title="Hypernym Studio" href="https://github.com/hypernym-studio">
-    <img alt="Hypernym Studio" width="244" src=".assets/hypernym-studio_logo.svg">
-  </a>
-</p>
-
-<br>
-
 ## Features
 
 - Free and open source project
-- Available as a _static_ and _variable_ typeface
-- Offers great _multilingual_ support
-- Suitable for _desktop_ and _web_ use
+- Available as a static and variable typeface
+- Offers great multilingual support
+- Suitable for desktop and web use
 - Comes in 20 different weights (50-1000)
-- Includes _source_ files with 3 main masters
-- Supports _extra_ stylistic sets (ss01-ss14)
-- Provides custom _smart_ components
-- Allows _easy_ expansion
+- Includes source files with 3 main masters
+- Supports extra stylistic sets (ss01-ss14)
+- Provides custom smart components
+- Allows easy expansion
 
 ## Languages
 
@@ -47,14 +35,38 @@
 - Variable font in [.ttf](./fonts/variable/) and [.woff2](./fonts/variable/) formats
 - Web fonts in [.woff2](./fonts/webfonts/) format
 
+## Sponsors
+
+<br>
+
+<p align="center">
+  <a title="Hypernym Studio" href="https://github.com/hypernym-studio">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" width="258" srcset="./media/hypernym-logo:dark.svg">
+      <source media="(prefers-color-scheme: light)" width="258" srcset="./media/hypernym-logo:light.svg">
+      <img alt="Hypernym Studio" width="258" src="./media/hypernym-logo:dark.svg">
+    </picture>
+  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" width="258" srcset="./media/sponsor-logo:dark.svg">
+    <source media="(prefers-color-scheme: light)" width="258" srcset="./media/sponsor-logo:light.svg">
+    <img alt="Become a Sponsor" width="258" src="./media/sponsor-logo:dark.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" width="258" srcset="./media/sponsor-logo:dark.svg">
+    <source media="(prefers-color-scheme: light)" width="258" srcset="./media/sponsor-logo:light.svg">
+    <img alt="Become a Sponsor" width="258" src="./media/sponsor-logo:dark.svg">
+  </picture>
+</p>
+
 ## Community
 
-Feel free to use the official [discussions](https://github.com/ivodolenc/aspekta/discussions) for any additional questions.
+Feel free to ask questions or share new ideas.
+
+Use the official [discussions](https://github.com/ivodolenc/aspekta/discussions) to get involved.
 
 ## License
 
-Developed in 🇭🇷 Croatia
+Developed in 🇭🇷 Croatia, © Ivo Dolenc.
 
 Released under the [OFL 1.1](LICENSE.txt) license.
-
-© Ivo Dolenc
