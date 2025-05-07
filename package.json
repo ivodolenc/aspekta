@@ -1,0 +1,17 @@
+{
+  "name": "aspekta-workspace",
+  "version": "0.0.0",
+  "author": "Ivo Dolenc",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "format:root": "prettier --write . '!packages'",
+    "format:fonts": "prettier --write packages/fonts",
+    "format:sources": "prettier --write packages/sources",
+    "create:release": "sh -c 'gh workflow run release --ref main --field package_name=$1' --"
+  },
+  "devDependencies": {
+    "@hypernym/prettier-config": "^3.2.3",
+    "prettier": "^3.5.3"
+  }
+}
