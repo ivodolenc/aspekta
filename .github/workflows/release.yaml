@@ -1,0 +1,43 @@
+name: Release
+
+on:
+  workflow_dispatch:
+    inputs:
+      package_name:
+        description: 'Package Name'
+        required: true
+
+jobs:
+  create-release:
+    permissions:
+      contents: write
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Get package details
+        id: details
+        run: |
+          PACKAGE_DIR="packages/${{ github.event.inputs.package_name }}"
+          if [ ! -d "$PACKAGE_DIR" ]; then
+            echo "Error: Package directory '$PACKAGE_DIR' does not exist."
+            exit 1
+          fi
+          PACKAGE_NAME=$(node -pe "require('./$PACKAGE_DIR/package.json').name")
+          PACKAGE_VERSION=$(node -pe "require('./$PACKAGE_DIR/package.json').version")
+          echo "package_name=$PACKAGE_NAME" >> $GITHUB_ENV
+          echo "package_version=$PACKAGE_VERSION" >> $GITHUB_ENV
+
+      - name: Create GitHub Release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PACKAGE_NAME: ${{ env.package_name }}
+          PACKAGE_VERSION: ${{ env.package_version }}
+        run: |
+          echo "Creating release for ${{ env.package_name }}@${{ env.package_version }}..."
+          gh release create "${{ env.package_name }}@${{ env.package_version }}" \
+            --title "${{ env.package_name }}@${{ env.package_version }}" \
+            --generate-notes
