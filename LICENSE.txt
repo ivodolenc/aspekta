@@ -1,8 +1,9 @@
-Copyright (c) Ivo Dolenc with Reserved Font Name "Aspekta".
+Copyright (c) 2025 Ivo Dolenc <https://github.com/ivodolenc>
+with Reserved Font Name "Aspekta".
 
-This Font Software is licensed under the SIL Open Font License - Version 1.1.
-
-This license is copied below, and is also available with a FAQ at: https://scripts.sil.org/OFL
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+https://openfontlicense.org
 
 
 -----------------------------------------------------------
