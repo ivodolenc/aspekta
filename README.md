@@ -16,24 +16,24 @@
 
 - Free and open source project
 - Available as a static and variable typeface
-- Offers great multilingual support
-- Suitable for desktop and web use
+- Offers great multilingual support (18 langs)
+- Optimized for desktop and web use
 - Comes in 20 different weights (50-1000)
 - Includes source files with 3 main masters
 - Supports extra stylistic sets (ss01-ss14)
 - Provides custom smart components
-- Allows easy expansion
+- Allows easy expansion and customization
 
 ## Languages
 
-- Croatian, Czech, Dutch, English, Finnish, French, German, Irish, Italian, Polish, Portuguese, Slovak, Slovenian, Spanish, Swedish, Turkish
+- 🇭🇷 Croatian, 🇨🇿 Czech, 🇩🇰 Danish, 🇳🇱 Dutch, 🇬🇧 English, 🇫🇮 Finnish, 🇫🇷 French, 🇩🇪 German, 🇮🇪 Irish, 🇮🇹 Italian, 🇳🇴 Norwegian, 🇵🇱 Polish, 🇵🇹 Portuguese, 🇸🇰 Slovak, 🇸🇮 Slovenian, 🇪🇸 Spanish, 🇸🇪 Swedish, 🇹🇷 Turkish
 
 ## Formats
 
-- Static fonts in [.otf](./fonts/otf/) format
-- Static fonts in [.ttf](./fonts/ttf/) format
-- Variable font in [.ttf](./fonts/variable/) and [.woff2](./fonts/variable/) formats
-- Web fonts in [.woff2](./fonts/webfonts/) format
+- Static fonts in `.otf` format
+- Static fonts in `.ttf` format
+- Web fonts in `.woff2` format
+- Variable font in `.ttf` and `.woff2` formats
 
 ## Sponsors
 
